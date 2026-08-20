@@ -2,24 +2,14 @@
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS to showcase my projects, skills, and experience.
 
-## Preview
-
-
-
 ## Portfolio Screenshots
 
 ![Screenshot 01](assets/screenshot-01.png)
-
 ![Screenshot 02](assets/screenshot-02.png)
-
 ![Screenshot 03](assets/screenshot-03.png)
-
 ![Screenshot 04](assets/screenshot-04.png)
-
 ![Screenshot 05](assets/screenshot-05.png)
-
 ![Screenshot 06](assets/screenshot-06.png)
-
 ![Screenshot 07](assets/screenshot-07.png)
 
 
