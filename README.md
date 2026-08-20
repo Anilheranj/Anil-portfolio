@@ -44,9 +44,3 @@ Follow these instructions to run the project locally on your machine.
    ```bash
    git clone [https://github.com/Anilheranj/Anil-portfolio.git](https://github.com/Anilheranj/Anil-portfolio.git)
    cd Anil-portfolio
-   
-=======
-## Preview
-
-![Anil Portfolio Screenshot](assets/screenshot.png)# Anil-portfolio
->>>>>>> 94fdeb5 (Add portfolio screenshot)
