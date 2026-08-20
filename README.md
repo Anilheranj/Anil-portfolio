@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS to showcase my projects, skills, and experience.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview+Image) <!-- Replace with a screenshot or GIF of your live site -->
+https://i.imgur.com/HusFQSI.png <!-- Replace with a screenshot or GIF of your live site -->
 
 🚀 Live Demo: [Anil Herenj Portfolio](https://anilheranj.github.io/Anil-portfolio/)
 
