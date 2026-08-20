@@ -4,7 +4,26 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 
 ## Preview
 
-![Anil Portfolio Screenshot](assets/screenshot.png)
+
+
+## Portfolio Screenshots
+
+![Screenshot 01](assets/screenshot-01.png)
+
+![Screenshot 02](assets/screenshot-02.png)
+
+![Screenshot 03](assets/screenshot-03.png)
+
+![Screenshot 04](assets/screenshot-04.png)
+
+![Screenshot 05](assets/screenshot-05.png)
+
+![Screenshot 06](assets/screenshot-06.png)
+
+![Screenshot 07](assets/screenshot-07.png)
+
+
+
 
 🚀 Live Demo: [Anil Herenj Portfolio](https://anilheranj.github.io/Anil-portfolio/)
 
