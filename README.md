@@ -2,7 +2,9 @@
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS to showcase my projects, skills, and experience.
 
-https://i.imgur.com/HusFQSI.png <!-- Replace with a screenshot or GIF of your live site -->
+## Preview
+
+![Anil Portfolio Screenshot](assets/screenshot.png)
 
 🚀 Live Demo: [Anil Herenj Portfolio](https://anilheranj.github.io/Anil-portfolio/)
 
@@ -43,3 +45,8 @@ Follow these instructions to run the project locally on your machine.
    git clone [https://github.com/Anilheranj/Anil-portfolio.git](https://github.com/Anilheranj/Anil-portfolio.git)
    cd Anil-portfolio
    
+=======
+## Preview
+
+![Anil Portfolio Screenshot](assets/screenshot.png)# Anil-portfolio
+>>>>>>> 94fdeb5 (Add portfolio screenshot)
